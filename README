@@ -1,0 +1,9 @@
+Program to have bots that move around in a 2d grid. Will have Evolutionary algorithms.
+Bots will be able to:
+
+Move left, right, up, down.
+Sence things in front of it.
+Reproduce if food is available.
+Communicate to prodce new commands and reciprocate old ones. 
+
+Will be a set of classes with instrucitons in txt files. 
